@@ -1,0 +1,35 @@
+{
+  "name": "lesster",
+  "version": "0.0.0",
+  "description": "less compilation and middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/selfcontained/lesster.git"
+  },
+  "keywords": [
+    "less",
+    "middleware",
+    "version"
+  ],
+  "files": [
+      "index.js",
+      "lib"
+  ],
+  "author": "Brad Harris <bmharris@gmail.com> (http://selfcontained.us)",
+  "contributors": [
+    {
+      "name": "Brad Harris",
+      "email": "bmharris@gmail.com",
+      "url": "http://selfcontained.us"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "deap": "^1.0.0",
+    "less": "^1.7.3"
+  }
+}
