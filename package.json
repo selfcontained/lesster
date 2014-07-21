@@ -1,6 +1,6 @@
 {
   "name": "lesster",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "less compilation and middleware",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,8 @@
     "version"
   ],
   "files": [
-      "index.js",
-      "lib"
+    "index.js",
+    "lib"
   ],
   "author": "Brad Harris <bmharris@gmail.com> (http://selfcontained.us)",
   "contributors": [
